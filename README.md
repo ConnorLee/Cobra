@@ -1,16 +1,2 @@
 # Cobra
-# Cobra
-# Cobra
-# Cobra
-# Cobra
-# Cobra
-# Cobra
-# Cobra
-# Cobra
-# Cobra
-# Cobra
-# Cobra
-# Cobra
-# Cobra
-# Cobra
-# Cobra
+"IGNITE" 
